@@ -43,17 +43,7 @@ Busco aprender constantemente, explorar novas tecnologias e desenvolver soluçõ
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllanBuenoDev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanBuenoDev&layout=compact&theme=tokyonight)
-
-</div>
-
----
 
 ## 🎯 Filosofia
 
